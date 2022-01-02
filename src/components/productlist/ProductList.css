@@ -12,11 +12,13 @@
 
 .pl-title {
   font-size: 50px;
-  font-weight: 600;
+  font-weight: 500;
+  color: #64ffda;
 }
 
 .pl-desc {
   margin: 20px 0px;
+  color: #ccd6f6;
 }
 
 .pl-list {
