@@ -13,12 +13,12 @@ function About() {
       </div>
       <div className="a-right">
         <h1 className="a-title">About me</h1>
-        <p className="a-sub">
-          Its losjghh ds sgj bjhsgdh a bsdgfhjadhg b sggfhjjhgds sdhgs.
-        </p>
+        <p className="a-sub">A curiosity-driven Front-End Developer.</p>
         <p className="a-desc">
-          nfm kjgbsfdgk jhjsfdbgjh ag badghghfdshgkjasdfhg kahgh adkghagkj
-          hajdhgs kjhadjhadlkjghhdg ads
+          I’m a talented Product Designer with front end development skills. I
+          am passionate about leveraging my diverse backgrounds to decipher
+          challenging problems and create delightful experiences. I honed my
+          skills at web development.
         </p>
       </div>
     </div>
