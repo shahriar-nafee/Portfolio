@@ -1,3 +1,4 @@
+import jobportal from "./components/img/Job Portal.png";
 export const products = [
   {
     id: 1,
@@ -18,5 +19,10 @@ export const products = [
     id: 4,
     img: "https://github.com/shahriar-nafee/tic-tac-toe-next-redux-/blob/main/FireShot%20Capture%20002%20-%20%20-%20localhost.png?raw=true",
     link: "https://tic-tac-toe-next-redux.vercel.app/",
+  },
+  {
+    id: 5,
+    img: jobportal,
+    link: "https://jobsportal.vercel.app/",
   },
 ];
