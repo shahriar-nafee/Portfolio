@@ -22,7 +22,7 @@ function Intro() {
             specializing in creating stylish, modern websites, web services and
             online stores.
           </p>
-          <a href={resume} download>
+          <a href={resume} download="Shahriar Nafee.pdf">
             <button className="rs-btn">RESUME</button>
           </a>
         </div>
