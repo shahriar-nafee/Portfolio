@@ -1,5 +1,6 @@
 import React from "react";
 import "./Intro.css";
+import resume from "../img/Resume of SHAHRIAR NAFEE.pdf";
 
 function Intro() {
   return (
@@ -21,6 +22,9 @@ function Intro() {
             specializing in creating stylish, modern websites, web services and
             online stores.
           </p>
+          <a href={resume} download>
+            <button>RESUME</button>
+          </a>
         </div>
       </div>
       <div className="i-right">

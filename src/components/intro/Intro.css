@@ -66,6 +66,14 @@
   color: #8892b0;
 }
 
+button {
+  padding: 5px 10px;
+  margin-top: 8px;
+  width: 130px;
+  height: 40px;
+  border-radius: 50px;
+}
+
 .i-bg {
   clip-path: polygon(100% 0%, 100% 51%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
   background-color: #64ffda;
