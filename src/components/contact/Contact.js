@@ -19,7 +19,7 @@ function Contact() {
       )
       .then(
         (result) => {
-          console.log(result.text);
+          alert("Your Message has sent successfully");
         },
         (error) => {
           console.log(error.text);
@@ -57,7 +57,7 @@ function Contact() {
             <input type="text" placeholder="Subject" name="user_subject" />
             <input type="text" placeholder="Email" name="user_email" />
             <textarea rows="5" placeholder="Message" name="message" />
-            <button>SUBMIT</button>
+            <button className="btn">SUBMIT</button>
           </form>
         </div>
       </div>

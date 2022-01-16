@@ -59,7 +59,7 @@ form {
 }
 
 input {
-  color: #8892b0;
+  color: #ccd6f6;
   width: 50%;
   height: 50px;
   border: none;
@@ -70,11 +70,11 @@ input {
 }
 
 input::placeholder {
-  color: #ccd6f6;
+  color: #8892b0;
 }
 
 textarea {
-  color: #8892b0;
+  color: #ccd6f6;
   width: 100%;
   margin: 10px 0px;
   font-size: 14px;
@@ -83,19 +83,19 @@ textarea {
 }
 
 textarea::placeholder {
-  color: #ccd6f6;
+  color: #8892b0;
 }
-button {
+.btn {
   border: none;
   background-color: none;
-  padding: 10px 15px;
+  width: 100px;
+  height: 40px;
   color: #64ffda;
   border: 1px solid#64ffda;
   cursor: pointer;
-  border-radius: 10px;
 }
 
-button:hover {
+.btn:hover {
   background-color: #8892b0;
 }
 

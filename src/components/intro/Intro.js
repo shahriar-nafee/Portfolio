@@ -23,7 +23,7 @@ function Intro() {
             online stores.
           </p>
           <a href={resume} download>
-            <button>RESUME</button>
+            <button className="rs-btn">RESUME</button>
           </a>
         </div>
       </div>
