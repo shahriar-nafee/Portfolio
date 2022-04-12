@@ -15,6 +15,7 @@ function Intro() {
             <div className="i-title-wrapper">
               <div className="i-title-item">Frontend Developer</div>
               <div className="i-title-item">React Developer</div>
+              <div className="i-title-item">Angular Developer</div>
             </div>
           </div>
           <p className="i-desc">

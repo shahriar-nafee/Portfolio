@@ -1,4 +1,5 @@
 import jobportal from "./components/img/Job Portal.png";
+import hondaConnect from "./components/img/honda-connect.png";
 export const products = [
   {
     id: 1,
@@ -24,5 +25,10 @@ export const products = [
     id: 5,
     img: jobportal,
     link: "https://jobsportal.vercel.app/",
+  },
+  {
+    id: 6,
+    img: hondaConnect,
+    link: "http://hondaconnect.erainfotechbd.com:9852/",
   },
 ];
