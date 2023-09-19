@@ -4,7 +4,7 @@ export const products = [
   {
     id: 1,
     img: "https://github.com/shahriar-nafee/Portfolio/blob/main/src/components/img/FireShot%20Capture%20009%20-%20React%20App%20-%20localhost.png?raw=true",
-    link: "https://ecom-men.vercel.app/",
+    link: "https://ecomen.vercel.app/",
   },
   {
     id: 2,
