@@ -1,6 +1,6 @@
 import React from "react";
 import "./Intro.css";
-import resume from "../img/Resume of SHAHRIAR NAFEE.pdf";
+import resume from "../img/Resume of SHAHRIAR_NAFEE.pdf";
 
 function Intro() {
   return (
